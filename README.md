@@ -1,4 +1,5 @@
-# M.Julianda_PemrogramanWEB2
-Tugas Pemrograman WEB 2
+<<<<<<< HEAD
 
-![Tugas2]()
+=======
+
+>>>>>>> 47b380018c2185ae1eee7b154312c748023ac0aa
