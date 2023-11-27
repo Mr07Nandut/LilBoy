@@ -32,6 +32,12 @@ echo '<p>Umur: ' . $umur . '</p>';
 echo '<p>Alamat: ' . $alamat . '</p>';
 echo '<p>Pekerjaan: ' . $pekerjaan . '</p>';
 
+echo '<button onclick="goBack()">Kembali</button>';
+echo '<script>';
+echo 'function goBack() {';
+echo 'window.history.back();';
+echo '}';
+echo '</script>';
 
 ?>
 </div>
